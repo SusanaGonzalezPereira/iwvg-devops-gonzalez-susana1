@@ -3,4 +3,5 @@
 > Este proyecto es una Plantilla de apoyo docente de la asignatura.
 > 
 > ### Estado del código
-> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=iwvg-devops-gonzalez-susana&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=iwvg-devops-gonzalez-susana)
+[![CI](https://github.com/SusanaGonzalezPereira/iwvg-devops-gonzalez-susana/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/SusanaGonzalezPereira/iwvg-devops-gonzalez-susana/actions/workflows/ci.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=iwvg-devops-gonzalez-susana&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=iwvg-devops-gonzalez-susana)
